@@ -1,7 +1,7 @@
 ![DevOps Image](https://github.com/SwatiVerma2/SwatiVerma2/blob/main/devops.png)
 
 <h1 align="center">Hi, I'm Swati Verma</h1>
-<h3 align="center">I'm an aspiring DevOps Engineer with a keen interest in automating processes, improving system reliability, and enhancing continuous integration and delivery pipelines.</h3>
+<h3 align="left">I'm an aspiring DevOps Engineer with a keen interest in automating processes, improving system reliability, and enhancing continuous integration and delivery pipelines.</h3>
 
 - 🌱 I’m currently learning **DevOps Tools and Cloud Technologies**
 
