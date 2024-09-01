@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1T7BQe1-gZUdKoQclJwFKYzG__xWFLGB3/view?usp=sharing)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/swati-verma26" target="_blank">
