@@ -8,10 +8,14 @@
   
 - 📚 Explore my GitHub for well-structured notes on DevOps, MongoDB, and other technical areas, designed for ongoing learning and reference.
 
-- 📫 How to reach me: **vswati535@gmail.com**
+- 📧 How to reach me: **vswati535@gmail.com**
 
 - 📄 Learn more about my skills, projects, and educational background: [My Resume](https://drive.google.com/file/d/1T7BQe1-gZUdKoQclJwFKYzG__xWFLGB3/view?usp=sharing)
 
+- 🌐 Connect with me:
+  <a href="https://linkedin.com/in/swati-verma26" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-verma26" height="20" width="30" />
+  </a>
   
 <h3 align="left">Repositories and Notes:</h3>
 <p align="left">
