@@ -65,12 +65,6 @@
   </tr>
 </table>
 
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swativerma2&show_icons=true&locale=en&layout=compact" alt="swativerma2" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swativerma2&" alt="swativerma2" />
 </p>
