@@ -55,7 +55,8 @@
 
 <h3 align="left">Repositories and Notes:</h3>
 <p align="left">
-  I maintain repositories and notes on a range of technologies including MongoDB, Jira, DevOps and more. Check out my <a href="https://github.com/SwatiVerma2?tab=repositories">repositories</a> for more insights.
+ Here you'll find an extensive collection of notes covering a variety of technical subjects such as MongoDB, DevOps, and more. They serve as a valuable reference for my personal learning journey and are also designed to help others deepen their understanding of these complex topics. Whether you’re a fellow enthusiast or a curious explorer, I encourage you to browse through these notes for valuable insights.
+  Check out my <a href="https://github.com/SwatiVerma2?tab=repositories">repositories</a> for more insights.
 </p>
 
 <p align="left">
