@@ -14,7 +14,10 @@
 <h3 align="left">Repositories and Notes:</h3>
 <p align="left">
  Here you'll find an extensive collection of notes covering a variety of technical subjects such as MongoDB, DevOps, and more. They serve as a valuable reference for my personal learning journey and are also designed to help others deepen their understanding of these complex topics. Whether you’re a fellow enthusiast or a curious explorer, I encourage you to browse through these notes for valuable insights.
+  
 - Check out my <a href="https://github.com/SwatiVerma2?tab=repositories">repositories</a> for more insights.
+
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
