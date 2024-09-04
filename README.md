@@ -4,12 +4,13 @@
 <h3 align="center">I'm an aspiring DevOps Engineer with a keen interest in automating processes, improving system reliability, and enhancing continuous integration and delivery pipelines.</h3>
 
 - 🌱 I’m currently learning **DevOps Tools and Cloud Technologies**
+  
+- 📚 Explore my GitHub for well-structured notes on DevOps, MongoDB, and other technical areas, designed for ongoing learning and reference.
 
 - 📫 How to reach me: **vswati535@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1T7BQe1-gZUdKoQclJwFKYzG__xWFLGB3/view?usp=sharing)
+- 📄 Learn more about my skills, projects, and educational background: [My Resume](https://drive.google.com/file/d/1T7BQe1-gZUdKoQclJwFKYzG__xWFLGB3/view?usp=sharing)
 
-- Explore my GitHub for well-structured notes on DevOps, MongoDB, and other technical areas, designed for ongoing learning and reference.
   
 <h3 align="left">Repositories and Notes:</h3>
 <p align="left">
