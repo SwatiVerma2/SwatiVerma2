@@ -1,4 +1,5 @@
-![DevOps Image](https://github.com/SwatiVerma2/SwatiVerma2/blob/main/devops.png)
+![image](https://github.com/user-attachments/assets/24503774-bb5b-4eb2-845c-642af3d41a89)
+
 
 <h1 align="center">Hi, I'm Swati Verma</h1>
 <h3 align="center">I'm an aspiring DevOps Engineer with a keen interest in automating processes, improving system reliability, and enhancing continuous integration and delivery pipelines.</h3>
