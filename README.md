@@ -17,7 +17,6 @@
  Here you'll find an extensive collection of notes covering a variety of technical subjects such as MongoDB, DevOps, and more. They serve as a valuable reference for my personal learning journey and are also designed to help others deepen their understanding of these complex topics. Whether you’re a fellow enthusiast or a curious explorer, I encourage you to browse through these notes for valuable insights.
   
 - Check out my <a href="https://github.com/SwatiVerma2?tab=repositories">repositories</a> for more insights.
-
   
 </p>
 
@@ -25,6 +24,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/swati-verma26" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-verma26" height="30" width="40" />
+  </a>
+    <a href="mailto:vswati535@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gmail_Icon.png/768px-Gmail_Icon.png" alt="gmail" height="30" width="40" />
   </a>
 </p>
 
