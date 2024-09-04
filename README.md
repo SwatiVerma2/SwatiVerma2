@@ -9,6 +9,14 @@
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1T7BQe1-gZUdKoQclJwFKYzG__xWFLGB3/view?usp=sharing)
 
+- Explore my GitHub for well-structured notes on DevOps, MongoDB, and other technical areas, designed for ongoing learning and reference.
+  
+<h3 align="left">Repositories and Notes:</h3>
+<p align="left">
+ Here you'll find an extensive collection of notes covering a variety of technical subjects such as MongoDB, DevOps, and more. They serve as a valuable reference for my personal learning journey and are also designed to help others deepen their understanding of these complex topics. Whether you’re a fellow enthusiast or a curious explorer, I encourage you to browse through these notes for valuable insights.
+- Check out my <a href="https://github.com/SwatiVerma2?tab=repositories">repositories</a> for more insights.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/swati-verma26" target="_blank">
@@ -53,11 +61,7 @@
   </tr>
 </table>
 
-<h3 align="left">Repositories and Notes:</h3>
-<p align="left">
- Here you'll find an extensive collection of notes covering a variety of technical subjects such as MongoDB, DevOps, and more. They serve as a valuable reference for my personal learning journey and are also designed to help others deepen their understanding of these complex topics. Whether you’re a fellow enthusiast or a curious explorer, I encourage you to browse through these notes for valuable insights.
-  Check out my <a href="https://github.com/SwatiVerma2?tab=repositories">repositories</a> for more insights.
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swativerma2&show_icons=true&locale=en&layout=compact" alt="swativerma2" />
