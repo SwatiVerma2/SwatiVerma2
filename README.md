@@ -77,6 +77,3 @@
 <p align="center">
   "Self-belief and hardwork will always earn you success." - Virat Kohli
 </p>
-<p align="center">
-  <a href="https://github.com/SwatiVerma2?tab=repositories">Check out my repositories</a>
-</p>
