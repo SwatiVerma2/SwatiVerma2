@@ -25,9 +25,6 @@
   <a href="https://linkedin.com/in/swati-verma26" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-verma26" height="30" width="40" />
   </a>
-    <a href="mailto:vswati535@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gmail_Icon.png/768px-Gmail_Icon.png" alt="gmail" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
