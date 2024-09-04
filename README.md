@@ -41,8 +41,8 @@
       <b>Version Control & CI/CD:</b><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> &nbsp;
-       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-       <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> &nbsp;
       <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>
     </td>
     <td>
@@ -52,6 +52,11 @@
     </td>
   </tr>
 </table>
+
+<h3 align="left">Repositories and Notes:</h3>
+<p align="left">
+  I maintain repositories and notes on a range of technologies including MongoDB, Jira, DevOps and more. Check out my <a href="https://github.com/SwatiVerma2?tab=repositories">repositories</a> for more insights.
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swativerma2&show_icons=true&locale=en&layout=compact" alt="swativerma2" />
