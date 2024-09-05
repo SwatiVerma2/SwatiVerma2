@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps Tools and Cloud Technologies**
   
-- 📚 Passionate about learning and sharing knowledge. Explore my GitHub for well-structured notes on various technical topics.
+- 📚 Explore my GitHub for well-structured notes on various technical topics.
 
 - 📧 How to reach me: **vswati535@gmail.com**
 
