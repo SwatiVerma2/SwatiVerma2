@@ -10,7 +10,7 @@
 
 - 📧 How to reach me: **vswati535@gmail.com**
 
-- 📄 Learn more about my skills, projects, and educational background: [My Resume](https://drive.google.com/file/d/1T7BQe1-gZUdKoQclJwFKYzG__xWFLGB3/view?usp=sharing)
+- 📄 Learn more about my skills, projects, and educational background: [My Resume](https://drive.google.com/file/d/16zkEf_KC5kUVYisd8AbqM6Gwx05urcWL/view?usp=sharing)
 
 - 🌐 Connect with me:
   <a href="https://linkedin.com/in/swati-verma26" target="_blank">
